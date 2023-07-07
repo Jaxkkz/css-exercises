@@ -1,0 +1,21 @@
+.button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+/* Could've also done with one class and put them in comma separated list above
+eg. 
+.left, 
+.right {
+    -Properties-
+}
+*/
+
+.one {
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+}
